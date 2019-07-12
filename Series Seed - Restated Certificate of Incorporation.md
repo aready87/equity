@@ -84,7 +84,7 @@ In the event of any voluntary or involuntary liquidation, dissolution, or windin
 ##### 1.3 Deemed Liquidation Events.
 
 ###### 1.3.1 Definition.  
-Each of the following events is a "Deemed Liquidation Event" unless the Requisite Holders elect otherwise by written notice recieved by the Corporation at least five (5) days prior to the effective date of any such event:
+Each of the following events is a "Deemed Liquidation Event" unless the Requisite Holders elect otherwise by written notice received by the Corporation at least five (5) days prior to the effective date of any such event:
 
 (a) a merger or consolidation in which (i) the Corporation is a constituent party or (ii) a subsidiary of the Corporation is a constituent party and the Corporation issues shares of its capital stock pursuant to such merger or consolidation, except any such merger or consolidation involving the Corporation or a subsidiary in which the shares of capital stock of the Corporation outstanding immediately prior to such merger or consolidation continue to represent, or are converted into or exchanged for equity securities that represent, immediately following such merger or consolidation, at least a majority, by voting power, of the equity securities of (1) the surviving or resulting party or (2) if the surviving or resulting party is a wholly owned subsidiary of another party immediately following such merger or consolidation, the parent of such surviving or resulting party; provided that, for the purpose of this Section 1.3.1, all shares of Common Stock issuable upon exercise of options outstanding immediately prior to such merger or consolidation or upon conversion of Convertible Securities (as defined below) outstanding immediately prior to such merger or consolidation shall be deemed to be outstanding immediately prior to such merger or consolidation and, if applicable, deemed to be converted or exchanged in such merger or consolidation on the same terms as the actual outstanding shares of Common Stock are converted or exchanged; or
 
@@ -225,7 +225,7 @@ Subject to any additional vote required by this Restated Certificate, the number
 Elections of directors need not be by written ballot unless the Bylaws so provide.   
 
 ### D.	MEETINGS AND BOOKS.  
-Meetings of stockholders may be held within or without the State of Delaware, as the Bylaws mayprovide.  The books of the Corporation may be kept outside the State of Delaware at such place or places as may be designated from time to time by the Board or in the Bylaws.
+Meetings of stockholders may be held within or without the State of Delaware, as the Bylaws may provide.  The books of the Corporation may be kept outside the State of Delaware at such place or places as may be designated from time to time by the Board or in the Bylaws.
 
 ## ARTICLE IX:  DIRECTOR LIABILITY.
 
